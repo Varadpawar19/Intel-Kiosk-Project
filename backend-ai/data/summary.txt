@@ -1,0 +1,15 @@
+ Patient Summary:
+
+- - Type 2 Diabetes, diagnosed in 2018
+- - Allergic to penicillin
+- - Metformin 500mg twice daily
+- - Borderline hypertension
+- - Continue Metformin
+- - Start Amlodipine 5mg once daily for BP
+- - ECG: Sinus tachycardia
+- - Amlodipine 5mg once daily
+- - ECG done
+- - HbA1c pending
+- - Needs cardiac evaluation
+- - Refer to cardiologist
+- - Advise TMT (Treadmill Stress Test)

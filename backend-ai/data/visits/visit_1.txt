@@ -1,0 +1,30 @@
+Date: 2025-07-01
+Patient: Male, 50 years old
+
+Chief complaints:
+- Mild fatigue for the past week
+- Intermittent dizziness
+- Cold and runny nose (lasted 2 days)
+
+Vitals:
+- Blood Pressure: 150/95 mmHg
+- Pulse: 92 bpm
+- Blood Sugar (Fasting): 165 mg/dL
+- SPO2: 98%
+
+Past medical history:
+- Type 2 Diabetes, diagnosed in 2018
+- Allergic to penicillin
+
+Medications:
+- Metformin 500mg twice daily
+
+Assessment:
+- Poor glycemic control
+- Borderline hypertension
+
+Plan:
+- Continue Metformin
+- Start Amlodipine 5mg once daily for BP
+- Advice on diet and exercise
+- Follow-up in 2 weeks

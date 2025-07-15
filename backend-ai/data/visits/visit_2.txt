@@ -1,0 +1,28 @@
+Date: 2025-07-15
+Patient: Male, 50 years old
+
+Chief complaints:
+- Chest discomfort on exertion for the past 3 days
+- Mild fatigue continues
+
+Vitals:
+- Blood Pressure: 148/90 mmHg
+- Pulse: 100 bpm
+- ECG: Sinus tachycardia
+
+Medications:
+- Metformin 500mg twice daily
+- Amlodipine 5mg once daily
+
+Diagnostics:
+- ECG done
+- HbA1c pending
+
+Assessment:
+- Possible angina
+- Needs cardiac evaluation
+
+Plan:
+- Refer to cardiologist
+- Advise TMT (Treadmill Stress Test)
+- Review after test results

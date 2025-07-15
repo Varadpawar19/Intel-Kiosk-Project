@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Hypertension",
+    "rules": [
+      {
+        "type": "vital",
+        "key": "bp_sys",
+        "op": ">",
+        "value": 140,
+        "score": 2
+      },
+      {
+        "type": "vital",
+        "key": "bp_dia",
+        "op": ">",
+        "value": 90,
+        "score": 1
+      }
+    ]
+  },
+  {
+    "name": "Possible Angina",
+    "rules": [
+      {
+        "type": "symptom",
+        "key": "chest pain",
+        "score": 1
+      },
+      {
+        "type": "summary",
+        "key": "diabetic",
+        "score": 1
+      },
+      {
+        "type": "vital",
+        "key": "bp_sys",
+        "op": ">",
+        "value": 130,
+        "score": 2
+      }
+    ]
+  },
+  {
+    "name": "Likely Viral Fever",
+    "rules": [
+      {
+        "type": "vital",
+        "key": "temperature",
+        "op": ">",
+        "value": 100.4,
+        "score": 2
+      },
+      {
+        "type": "symptom",
+        "key": "fever",
+        "score": 1
+      }
+    ]
+  }
+]

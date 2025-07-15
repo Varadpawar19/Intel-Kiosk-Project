@@ -1,0 +1,38 @@
+📋 Doctor Diagnosis Report
+===================================
+
+🔹 Vitals:
+   - bp_sys: 150
+   - bp_dia: 95
+   - pulse: 92
+   - temperature: 99.2
+   - spo2: 98
+   - sugar: 165
+   - age: 50
+   - gender: male
+
+🔹 Symptoms:
+   - i have fever and cold
+
+🔹 Summary:
+   - Patient Summary:
+   - 
+   - - - Type 2 Diabetes, diagnosed in 2018
+   - - - Allergic to penicillin
+   - - - Metformin 500mg twice daily
+   - - - Borderline hypertension
+   - - - Continue Metformin
+   - - - Start Amlodipine 5mg once daily for BP
+   - - - ECG: Sinus tachycardia
+   - - - Amlodipine 5mg once daily
+   - - - ECG done
+   - - - HbA1c pending
+   - - - Needs cardiac evaluation
+   - - - Refer to cardiologist
+   - - - Advise TMT (Treadmill Stress Test)
+
+🔹 AI Assumption:
+   - ⚠️ Suggested Condition: Hypertension
+   - Confidence Score: 3/5
+
+✅ AI-generated report to assist doctor, not replace.
